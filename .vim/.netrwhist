@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ankit/work/coriolis/colama/colama/deploy'
+let g:netrw_dirhist_2='/home/ankit/work/coriolis/colama/colama/mhost/templates'
+let g:netrw_dirhist_3='/tmp/infracc/colama/colama/machines/migrations'
+let g:netrw_dirhist_4='/tmp/infracc/colama/colama/machines'
+let g:netrw_dirhist_5='/home/ankit/work/coriolis/colama/colama/machines'
